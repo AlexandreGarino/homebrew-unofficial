@@ -11,7 +11,7 @@ brew tap AlexandreGarino/homebrew-unofficial
 
 You now have access to install casks from here just as you would from the official project:
 ```
-brew cask install vmware-ofv-tool
+brew cask install vmware-ovf-tool
 ```
 
 ## Reporting Issues
