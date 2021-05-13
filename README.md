@@ -1,12 +1,17 @@
 # Homebrew Unofficial
 
-This repository contains Caskfiles whose download binary is behind a registration wall.
+This repository contains formulae and applications distributed as binaries not supported by the official Homebrew project.
 
 # Usage
 
-After you have installed `homebrew-cask`, add this tap to the list of your `homebrew` tap sources:
+After you have installed `homebrew` and `homebrew-cask`, add this tap to the list of your `homebrew` tap sources:
 ```
 brew tap AlexandreGarino/homebrew-unofficial
+```
+
+You now have access to install formulae from here just as you would from the official project:
+```
+brew install vcpkg@2021.04.30
 ```
 
 You now have access to install casks from here just as you would from the official project:
